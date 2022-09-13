@@ -1,0 +1,34 @@
+{
+    "post_page"                       : " المنشورات" , 
+    "About Us"                        : " عن المطور" ,
+    "English"                          : "اللغة اللإنكليزية " ,
+    "Arabic"                      : "اللغة العربية"  ,
+    "deatils_page"                         : "تفاصيل المنشور"  ,
+    "like" : "إعجاب" ,
+    "comment" : "تعليق" ,
+    "share" : "مشاركة"  ,
+    "ok" : " موافق" ,
+    "Language" : "اللغة" , 
+    "Back" :  "رجوع" ,
+    "Are you sure you want to go back?" :  "هل أنت متأكد أنك تريد التراجع" ,
+    "Exit" :  "خروج" , 
+    "Are you sure you want to exit ?" :  "هل أنت متأكد أنك تريد الخروج" ,
+    "Yes" :  "موافق" ,
+    "No" :  "غير موافق"  ,
+       "title"  :   "العنوان"  ,
+   "body"  :         "النص"    ,
+   "edeitbutton"  :    "تعديل"       ,
+   "deletebutton"  :  "حذف"         ,
+   "backbutton"  :     "رجوع"     ,
+     "add_page_title" :     " إضافة منشور"     ,
+   "edeit_page_title" :     " تعديل  منشور"     ,
+   "addbutton" :     "إضافة"   ,
+   "Mdeatils_page_title" : "تفاصيل المنشور"  ,
+        "Email or Username" :   "اسم المستخدم أو الإيميل",
+     "password"  :   "كلمة السر",
+     "LogIn"  :   "تسجيل الدخول"   
+
+
+}
+
+

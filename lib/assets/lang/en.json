@@ -1,0 +1,33 @@
+{
+    "post_page" : "Post Page" ,
+    "About Us" :  "About Us" ,
+    "English" : "English Language" ,
+    "Arabic"  : "Arabic Language" , 
+   "deatils_page" : "deatils_page" ,
+    "like": "Like" ,
+    "comment"  : "Comment" ,
+   "share" :  "Share" , 
+   "ok" : "Ok" ,
+   "Language" : "Language" ,
+   "Back": "Back" ,
+   "Are you sure you want to go back?" :  "Are you sure you want to go back?"  , 
+   "Exit" :  "Exit" ,
+   "Are you sure you want to exit ?" :   "Are you sure you want to exit ?"  ,
+   "Yes" : "Yes" ,
+   "No" :  "No" ,
+   "title"  :   "title"       ,
+   "body"  :         "body"    ,
+   "edeitbutton"  :    "Ediet"       ,
+   "deletebutton"  :  "Delete"         ,
+   "backbutton"  :     "back"  ,
+   "addbutton": "Add"  ,
+     "add_page_title" :     "Add Post"   ,
+     "edeit_page_title" :     "Ediet Post"  ,
+     "Mdeatils_page_title" : " Post Deatils" ,
+
+     "Email or Username" :   "Email or Username",
+     "password"  :   "password",
+     "LogIn"  :   "LogIn"
+   
+}
+ 
